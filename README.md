@@ -84,8 +84,7 @@ However, the fundamental principle remains the same:
 
 ## 📸 Demo
 
-![AeroScan Model](./assets/demo.jpg)
-
+![AeroScan Model](Aeroscan/image.png)
 ---
 
 ## 🌍 Real-Life Applications
